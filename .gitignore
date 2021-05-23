@@ -1,1 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+db.sqlite3
+
+# VSCode
 .vscode
+
+# Docker
+docker-compose-prod.yml
